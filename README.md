@@ -1,5 +1,5 @@
 # Credit_Card_Classification
-O objetivo é treinar e avaliar o desempenho do modelo em um conjunto de dados obtido no Kaggle, especificamente na competição CDS Hackday 3.
+O objetivo é treinar e avaliar o desempenho do modelo em um conjunto de dados obtido no Kaggle, especificamente na competição [Kaggle HackDays 3](https://www.kaggle.com/competitions/cdshackdays3).
 # K-Nearest Neighbors (KNN) - Classification
 
 ## 📌 Descrição
@@ -51,7 +51,7 @@ O notebook inclui:
 - Visualizações opcionais para melhor entendimento dos dados.
 
 
-[Conjunto de Dados - Kaggle HackDays 3](https://www.kaggle.com/competitions/cdshackdays3)
+[Kaggle HackDays 3](https://www.kaggle.com/competitions/cdshackdays3)
 
 
 
