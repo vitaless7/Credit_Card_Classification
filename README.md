@@ -21,7 +21,7 @@ pip install pandas numpy scikit-learn matplotlib
 ```
 
 ## 📂 Estrutura do Projeto
-- `knn.ipynb`: Notebook Jupyter contendo a implementação do modelo KNN.
+- `classification.ipynb`: Notebook Jupyter contendo a implementação do modelo KNN.
 - `train.csv`: Arquivo com os dados de treino utilizados para treinar o modelo.
 
 
@@ -34,7 +34,7 @@ pip install pandas numpy scikit-learn matplotlib
 jupyter notebook
 ```
 
-4. Abra o arquivo `knn.ipynb` no Jupyter Notebook.
+4. Abra o arquivo `classification.ipynb` no Jupyter Notebook.
 5. Execute as células sequencialmente para carregar os dados e rodar o modelo KNN.
 
 ## 🔍 Explicação do Algoritmo KNN
