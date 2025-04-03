@@ -3,7 +3,7 @@ O objetivo é treinar e avaliar o desempenho do modelo em um conjunto de dados o
 # K-Nearest Neighbors (KNN) - Classification
 
 ## 📌 Descrição
-Este é um pequeno projeto que implementa o algoritmo de K-Nearest Neighbors (KNN) para classificação de dados. O projeto está estruturado em um notebook Jupyter (`knn.ipynb`), onde é realizada a carga dos dados, a análise exploratória e a aplicação do modelo de classificação.
+Este é um pequeno projeto que implementa o algoritmo de K-Nearest Neighbors (KNN) para classificação de dados. O projeto está estruturado em um notebook Jupyter (`classification.ipynb`), onde é realizada a carga dos dados, a análise exploratória e a aplicação do modelo de classificação.
 
 ## 🛠 Requisitos
 Para rodar este projeto, é necessário ter instalado:
